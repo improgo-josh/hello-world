@@ -1,12 +1,11 @@
 ## Hello World App
 
 ### App Description
-App allows you to change the text color of the text.
+App welcomes user with a "Hello from Josh!" It allows you to change the colors of the text and background to a variety of colors and allows the user to change the text using the text field. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/CrjU2qMO7X.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
